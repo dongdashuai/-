@@ -11,9 +11,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>e3-dao</module>
+		<module>e3-manager-dao</module>
 		<module>e3-manager-service</module>
-		<module>d3-manager-web</module>
+		
 		<module>e3-manager-pojo</module>
 	</modules>
 	<dependencies>
